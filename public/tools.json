@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i.ibb.co/zJdfVVw/drill-1.jpg",
+    "name": "Dewalt Rotary Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 1999
+  },
+  {
+    "_id": 2,
+    "img": "https://i.ibb.co/6NvGW25/drill-2.jpg",
+    "name": "Cumi Rotary Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 2000
+  },
+  {
+    "_id": 3,
+    "img": "https://i.ibb.co/zFGJmXx/drill-3.jpg",
+    "name": "Hi-Flex Plastic Rotary Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 2500
+  },
+  {
+    "_id": 4,
+    "img": "https://i.ibb.co/NyKd8WR/drill-4.jpg",
+    "name": "KPT Shakti Rotary Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 3000
+  },
+  {
+    "_id": 5,
+    "img": "https://i.ibb.co/NyKd8WR/drill-4.jpg",
+    "name": "Power Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 2500
+  },
+  {
+    "_id": 6,
+    "img": "https://i.ibb.co/QKV1dB1/drill-6.jpg",
+    "name": "Xi Rotary Drill Machine",
+    "description": "This drill has 550W power. 2800 rpm speed",
+    "minimumOrderQuantity": 50,
+    "availableQuantity": 200,
+    "price": 1600
+  }
+]
